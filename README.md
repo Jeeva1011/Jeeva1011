@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jeeva1011
-- 👀 I’m interested in 💻⌨️🖱️
-- 🌱 I’m currently learning 👨‍💻
+- 👋 Hi, I’m Jeeva Kumar P
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Developer communities 
-- 📫 How to reach me - IG -  mt_jeevan
+- 📫 How to reach me - pjk24081999@gmail.com & IG -  mt_jeevan
 - 😄 Pronouns: ♂️
 - ⚡ Fun fact: Maa life 🤣
 
